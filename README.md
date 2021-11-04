@@ -1,5 +1,5 @@
 # Diversity-based Trajectory and Goal Selection with Hindsight Experience Replay 
-This is the official implementation of our paper "Diversity-based Trajectory and Goal Selection with Hindsight Experience Replay" (PRICAI 2021).
+This is the official implementation of our paper ["Diversity-based Trajectory and Goal Selection with Hindsight Experience Replay"](https://link.springer.com/chapter/10.1007/978-3-030-89370-5_3) [PRICAI 2021].
 ## 
 ![envs](figures/envs.png) 
 ## Pre-requisites  
@@ -37,3 +37,15 @@ python train.py --env_name HandManipulatePenRotate-v0 --use_kdpp True --prioriti
 - [@ruizhaogit](https://github.com/ruizhaogit) for [Priority-based Experience Replay](https://github.com/ruizhaogit/EnergyBasedPrioritization)
 - [@openai](https://github.com/openai) for [Baselines](https://github.com/openai/baselines)
 - [@satwik77](https://github.com/satwik77) for [Original DPP Implementation](https://github.com/satwik77/pyDPP)
+## BibTex
+To cite this code for publications - please use:
+```
+@inproceedings{dai2021her
+	author={Dai, Tianhong and Liu, Hengyan and Arulkumaran, Kai and Ren, Guangyu and Bharath, Anil Anthony},
+	title={Diversity-Based Trajectory and Goal Selection with Hindsight Experience Replay},
+	booktitle={Pacific Rim International Conference on Artificial Intelligence},
+	year={2021},
+	pages={32--45},
+	publisher={Springer},
+}
+```
