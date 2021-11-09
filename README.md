@@ -1,5 +1,5 @@
 # Diversity-based Trajectory and Goal Selection with Hindsight Experience Replay 
-This is the official implementation of our paper ["Diversity-based Trajectory and Goal Selection with Hindsight Experience Replay"](https://link.springer.com/chapter/10.1007/978-3-030-89370-5_3) [PRICAI 2021].
+This is the official implementation of our paper ["Diversity-based Trajectory and Goal Selection with Hindsight Experience Replay"](https://link.springer.com/chapter/10.1007/978-3-030-89370-5_3) [PRICAI 2021][[arxiv](https://arxiv.org/abs/2108.07887)].
 ## 
 ![envs](figures/envs.png) 
 ## Pre-requisites  
